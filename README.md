@@ -3,7 +3,7 @@ CapacitivePaint
 
 Arduino code for 4-channel capacitive paint CV (control voltage) interface.
 
-More information on the project here: http://www.jimmymhughes.com/projects/capacitive-paint-controller/
+More information on the project here: http://www.jimmymhughes.com/capacitive-paint-controller/
 
 Code tested in Arduino alpha version 22.
 
